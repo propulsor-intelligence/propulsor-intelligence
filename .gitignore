@@ -15,6 +15,10 @@
 !services/**
 !scripts/
 !scripts/**
+!propulsor-backend/
+!propulsor-backend/**
+!database/
+!database/**
 !utils.py
 !importador_espader.bat
 !consolidar_contencioso.bat
