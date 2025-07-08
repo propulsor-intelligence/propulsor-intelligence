@@ -19,6 +19,7 @@
 !importador_espader.bat
 !consolidar_contencioso.bat
 !criar_propulsor_db.bat
+!importar_banco_fusione.bat
 !netlify.toml
 !data/
 !data/**
