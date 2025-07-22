@@ -76,3 +76,6 @@ python -m scripts.duplicidades nome_da_tabela coluna_chave
 ```
 
 O script exibirá os valores repetidos e suas ocorrências para cada arquivo `.db` encontrado.
+
+### 📚 Documentação Fusione
+Consulte `data/docs/README_FUSIONE_COMPLETO.md` para o guia de instalação e importância de dados.

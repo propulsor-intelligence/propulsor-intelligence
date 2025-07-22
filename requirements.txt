@@ -13,3 +13,4 @@ git+https://github.com/openai/whisper.git
 Flask
 flask-cors
 python-dotenv
+mysql-connector-python
